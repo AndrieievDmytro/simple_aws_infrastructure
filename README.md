@@ -18,5 +18,6 @@ If everything is okay then use the following command:
 Next infrastructure will be built in Cloud:
 
 
-![Blank diagram](https://user-images.githubusercontent.com/63021874/218694194-b09be79e-c698-437b-9f72-43983bffba8c.png)
+![Blank diagram (1)](https://user-images.githubusercontent.com/63021874/218695079-13139e2d-9f94-4773-990f-0cf876aaff66.png)
+
 
