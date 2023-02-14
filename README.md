@@ -9,12 +9,14 @@ If you have AWS account just install and configure AWS CLI https://docs.aws.amaz
 
 After all installations go under project folder "your_path/simple_aws_infrastructure" and perform next commands
 
-'terraform init' - Prepare your working directory for other commands  
-'terraform plan' - Shows changes that will be applyed in Cloud.
+'**terraform init**' - Prepare your working directory for other commands  
+'**terraform plan**' - Shows changes that will be applyed in Cloud.
 
 If everything is okay then use the following command:
-'terraform apply' and enter yes.
 
+'**terraform apply**' and enter yes.
 Next infrastructure will be built in Cloud:
+
+
 ![Blank diagram](https://user-images.githubusercontent.com/63021874/218694194-b09be79e-c698-437b-9f72-43983bffba8c.png)
 
