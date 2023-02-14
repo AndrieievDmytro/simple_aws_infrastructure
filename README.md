@@ -15,9 +15,16 @@ After all installations go under project folder "your_path/simple_aws_infrastruc
 If everything is okay then use the following command:
 
 '**terraform apply**' and enter yes.
+
 Next infrastructure will be built in Cloud:
 
 
 ![Blank diagram (1)](https://user-images.githubusercontent.com/63021874/218695079-13139e2d-9f94-4773-990f-0cf876aaff66.png)
+
+
+You also can use following command to override default variables and specify custom setup
+
+Example:
+'**terraform apply -var ec2_count=2**' - raise up 2 instances instead of 1
 
 
